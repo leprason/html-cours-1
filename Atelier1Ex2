@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<h1 title="XML">XML Schema</h1>
+<h2>Definition</h2>
+<p><b>XML Schema</b> publie comme recommendation par le WJC en mai 2001 est un language de description de format de document XML permettant de definir la structure et le type d'un document XML.</p>
+<h1>Modele de XML Schema</h1>
+<p>La recommendation specifie la validation des documents XML a partir d'un modele abstrait : elle en fournit le format XML.<br>pour ce modele abstrait, un schema est un ensemble de composants</p>
+<h1>Exemple</h1>
+<code>
+	<?xml version="1.0" encoding="utf-8"?>
+	<xs:schema xmlns:xs="https://www.w3.org/2001/XMLSchema">
+</code>
+
+</body>
+</html>
