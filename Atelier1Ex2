@@ -12,10 +12,24 @@
 <h1>Modele de XML Schema</h1>
 <p>La recommendation specifie la validation des documents XML a partir d'un modele abstrait : elle en fournit le format XML.<br>pour ce modele abstrait, un schema est un ensemble de composants</p>
 <h1>Exemple</h1>
+<p>
 <code>
 	<?xml version="1.0" encoding="utf-8"?>
 	<xs:schema xmlns:xs="https://www.w3.org/2001/XMLSchema">
+	<xs:element name="personne">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nom" type="xs:string" />
+				<xs:element name="prenom" type="xs:string" />
+				<xs:element name="date_naissance" type="xs:date" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	</xs:schema>
 </code>
+</p>
+<hr>
+<p><u>citation:</u>"Les donnees sont une chose precieuse et dureront plus longtemps que les systemes eux-meme." (<I>Time berner lee</I>)</p>
 
 </body>
 </html>
