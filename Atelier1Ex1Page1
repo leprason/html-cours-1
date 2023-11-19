@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Ma premiere page html</title>
+	</head>
+		
+	<body>
+		<!--test commentaire-->
+		<h1>titre principal de mon document</h1>
+		<h2>titre principal de mon document</h2>
+		<h3>titre principal de mon document</h3>
+		<h4>titre principal de mon document</h4>
+		<h5>titre principal de mon document</h5>
+		<h6>titre principal de mon document</h6>
+		<p>Real Madrid Club de Fútbol, commonly referred to as Real Madrid, is a Spanish professional football club based in Madrid. The club competes in La Liga, the top tier of Spanish football. Founded in 1902 as Madrid Football Club, the club has traditionally worn a white home kit since its inception.</p>
+		<ol>
+			<li>Premier Module</li>
+			<li>Deuxieme Module</li>
+			<li>Troisieme Module</li>
+		</ol>
+		<ol style="list-style-type: upper-alpha">
+			<li><h3>Languages de programmation</h3></li>
+				<ol style="list-style-type: lower-roman">
+					<li><em>Python</em></li>
+					<li><b>Java/J2EE</b></li>
+					<li>C sharp</li>
+				</ol>
+		</ol>
+		<ul>
+			<li>HTML</li>
+			<li>Language C</li>
+			<li>Management</li>
+		</ul>					
+		<dl>
+			<ol style="list-style-type: decimal;">
+				<li><dt>Informatique</dt></li>
+					<dd>
+						<ul>
+							<li>Language C</li>
+							<li>Algorithmique</li>
+							<li>HTML</li>
+						</ul>
+					</dd>
+
+				<li><dt>Mathematiques</dt></li>
+					<dd>
+						<ul>
+							<li>Analyse</li>
+							<li>Algebre</li>
+							<li>Mathematiques appliquees</li>
+						</ul>
+					</dd>
+			</ol>
+		</dl>
+		<a href=https://www.realmadrid.com/en>Madrid</a><br>
+		<a href=https://google.com/ title=" taper pour faire une recherche">Google</a><br>
+		<a href = "test.html">Acces a la deuxieme page</a><br>
+		<a href = "C:\Users\YesPatouch\Videos\vod\Page3.html">Acces a la troisieme page</a><br>
+
+	</body>
+</html>
