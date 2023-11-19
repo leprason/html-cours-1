@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset=”utf-8" />
+
+<title> Première page WEB</title>
+</head>
+<body>
+<h1>Titre principal de mon document</h1>
+<!-- Ceci est un commentaire -->
+<p>Ce texte est dans un paragraphe.</p>
+<em>Ceci est <strong>très</strong> important</em>
+<ol>
+<li>Premier élément</li>
+<li>Second élément</li>
+</ol>
+<table>
+<th> Titre 1</th> <th>Titre2</th> <th>Titre3</th>
+<tr> <td>C1</td> <td>C2</td> <td>C3</td> </tr>
+<tr> <td colspan=”2”> Fusion de deux colonnes</td> <td> D3</td> </tr>
+<tr> <td rowspan=”2”> Fusion de deux lignes</td> <td>E2</td> <td>E3</td> </tr>
+<tr> <td>F2</td> <td>F3</td> </tr>
+</table>
+</body>
+</html>
