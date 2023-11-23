@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8/">
+<title>Planning</title>
+</head>
+<body>
+<center>
+<table border="2" align="center" bordercolor="green" cellpadding="6" cellspacing="2">
+<caption>Planning de taches par equipe</caption>
+<th rowspan="2">Equipes</th> <th colspan="5">Janvier 2022</th>
+<tr>
+	<td>Lundi</td> <td>Mardi</td> <td>Mercredi</td> <td>Jeudi</td> <td>Vendredi</td>
+</tr>
+<tr> 
+	<td>Equipe 1</td> <td colspan="3"><center>Tache 1</center></td> <td colspan="2"><center>Tache 2</center></td> 
+</tr>
+<tr> 
+	<td>Equipe 2</td> <td>Tache 3</td> <td colspan="2"><center>Tache 4</center></td> <td>Tache 5</td> <td>Tache 6</td> 
+</tr>
+<tr> 
+	<td>Equipe 3</td> <td>Tache 7</td> <td>Tache 8</td> <td>Tache 9</td> <td>Tache 10</td> <td>Tache 11</td> 
+</tr>
+</table>
+</center>
+</body>
