@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset=”utf-8" />
+<title>Activite 2</title>
+</head>
+<body>
+<table>
+<th>Nom</th> <th>Prenom</th> <th>age</th> <th>filiere</th> <th>date de naissance</th> <th>nationalite</th>
+<tr> <td>Hjiyej</td> <td>Othmane</td> <td>21</td> <td>MIAGE</td> <td>07/05/2002</td> <td>Marocain</td> </tr>
+<tr> <td>Chair</td> <td>Othmane</td> <td>21</td> <td>MIAGE</td> <td>07/05/2002</td> <td>Marocain</td> </tr>
+<tr> <td>Hakimi</td> <td>Othmane</td> <td>21</td> <td>MIAGE</td> <td>07/05/2002</td> <td>Marocain</td> </tr>
+<tr> <td>Harit</td> <td>Othmane</td> <td>21</td> <td>MIAGE</td> <td>07/05/2002</td> <td>Marocain</td> </tr>
+<tr> <td>Ziyech</td> <td>Othmane</td> <td>21</td> <td>MIAGE</td> <td>07/05/2002</td> <td>Marocain</td> </tr>
+</table>
+</body>
