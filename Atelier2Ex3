@@ -5,12 +5,13 @@
 <title>Emploi du temps</title>
 </head>
 <body>
-<table>
+<table border="2">
+<caption>Emploi du temps</caption>
 <th>Heure</th> <th>Lundi</th> <th>Mardi</th> <th>Mercredi</th> <th>Jeudi</th> <th>Vendredi</th>
 <tr> <td>8h30</td> <td>Anglais</td> <td>Comptabilite</td> <td>MTU</td> <td>Informatique</td> <td>Algebre</td> </tr>
 <tr> <td>10h30</td> <td>Comptabilite</td> <td>Analyse</td> <td>MTU</td> <td>Informatique</td> <td>Algebre</td> </tr>
-<tr> <td>12h30</td> </tr>
+<tr> <td>12h30</td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
 <tr> <td>14h</td> <td></td> <td></td> <td></td> <td>Analyse</td> <td>Microeconomie</td> </tr>
-<tr> <td>16h</td> <td>Francais</td> </tr>
+<tr> <td>16h</td> <td>Francais</td> <td></td> <td></td> <td></td> <td></td> </tr>
 </table>
 </body>
